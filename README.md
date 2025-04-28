@@ -1,5 +1,4 @@
 ﻿# frida-ssl-unpinning-script
-# Frida SSL Unpinning - Quick Start
 
 ## Requirements
 - Android device (rooted or with Frida server running in non-root mode)
